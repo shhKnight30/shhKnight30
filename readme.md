@@ -39,9 +39,9 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shhKnight30&show_icons=true&theme=radical" alt="Aishwary's GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shhKnight30&theme=tokyonight" alt="GitHub Streak" />
