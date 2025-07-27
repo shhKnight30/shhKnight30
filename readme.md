@@ -1,6 +1,7 @@
-<h1 align="center">Hi folks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm <a href="https://www.linkedin.com/in/aishwary-bhatt/">Aishwary Bhatt</a></h1>
+<h1 align="center">Hey there 👋 Welcome to my DigitalLab <br> I'm <a href="https://www.linkedin.com/in/aishwary-bhatt/">Aishwary Bhatt</a></h1>
 
-<h3 align="center">🚀 Software Development Engineer , FullStack Developer  | 🧠 Exploring Agentic AI | 🛠️ DSA & Robotics Enthusiast</h3>
+<h3 align="center">Software Development Engineer | FullStack Developer  |  DSA & Robotics Enthusiast | Exploring Agentic AI | </h3>
+
 
 <p align="center">
  <img width="1919" height="928" alt="Never Give Up " src="https://github.com/user-attachments/assets/a24f43ca-3e0b-466f-b863-43c94cd6dbe6" />
@@ -67,5 +68,45 @@
 </p>
 
 ---
+<h3>More about me:</h3>
+<p>I'm Aishwary Bhatt, a passionate and dedicated computer science student currently in my second year at IIIT Sonipat, Haryana. With a strong foundation in Java and Python, I also specialize in modern JavaScript frameworks like React.js and Express.js. My database experience spans both SQL and MongoDB, along with the Mongoose library for seamless backend integration.
+
+Technical Skills:
+
+Programming Languages: Proficient in Java and Python, with experience in building scalable applications.
+
+Web Development: Skilled in React.js and Express.js, capable of creating dynamic full-stack applications.
+
+Databases: Hands-on experience with SQL and MongoDB, using Mongoose for object modeling.
+
+Tools & Platforms: Familiar with ROS2, OpenCV, image processing, and Linux through robotics project work.
+
+
+Experience:
+
+e-Yantra Robotics Competition – IIT Bombay
+Warehouse Drone Project (2024)
+Worked on an autonomous drone-based warehouse management system as part of the prestigious e-Yantra competition.
+
+Developed and integrated systems using ROS2, OpenCV, and image processing techniques.
+
+Gained hands-on experience with Linux environments and robotics middleware.
+
+Collaborated in a team environment, enhancing my teamwork, communication, and leadership skills.
+
+
+
+What Drives Me:
+
+I have a deep enthusiasm for coding, problem-solving, and building real-world solutions. I actively engage in competitive programming and have solved over 250 problems across platforms like CodeChef, Codeforces, and LeetCode. I find joy in continuously learning and taking on challenges that push my limits.
+
+Looking Ahead:
+
+I’m currently exploring data structures, algorithms, and backend systems to further strengthen my core computer science skills. I’m always on the lookout for exciting opportunities where I can grow, contribute meaningfully, and collaborate with like-minded individuals.
+
+Feel free to reach out if you'd like to connect, discuss ideas, or explore opportunities. Let’s build something impactful together!</p>
+
+---
+
 
 <p align="center">Thanks for stopping by! 🌟 Let's build something awesome together and Contribute back to Society .</p>
