@@ -15,6 +15,43 @@ Computer Science undergraduate focused on backend systems, problem solving, and 
 
 ---
 
+## Currently Working On
+
+### Production-Grade Video Streaming Platform (Ongoing)
+
+Designing and building a video streaming platform integrated with social media and AI capabilities.
+
+- Designing efficient upload pipelines and storage strategies using AWS
+- Implementing authentication, authorization, and secure content access control  
+- Building social features such as user profiles, feeds, and interaction systems  
+- Integrating AI-driven components including recommendation and intelligent content workflows  
+- Prioritizing production readiness: scalability, modularity, observability, and future extensibility  .
+
+---
+
+### Machine Unlearning using Graph Neural Networks (GNNs)
+
+Exploring selective data removal techniques in graph-based learning systems.
+
+- Studying theoretical foundations of machine unlearning  
+- Experimenting with GNN architectures for node and subgraph unlearning  
+- Evaluating model stability and performance post-unlearning  
+- Analyzing retraining costs versus approximation-based unlearning methods  
+
+---
+
+### Deep Learning (Active Learning Phase)
+
+Strengthening core foundations in:
+
+- Learning Neural Network from Scratch
+- Learning Architecture of Transformers and Self Attention mechanism.
+- Learning and Understanding the various Architectures and Models of CNNs and YOLO. 
+
+---
+
+---
+
 ## About
 
 I am a B.Tech Computer Science student at IIIT Sonepat, currently preparing for software engineering internships with a focus on backend development, system design fundamentals, and competitive programming.
