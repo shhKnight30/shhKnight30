@@ -1,6 +1,6 @@
 <h1 align="center">Aishwary Bhatt</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikhil-X-codes&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=shhKnight30&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 <h3 align="center">
 Backend Developer | Competitive Programmer | AI Research 
