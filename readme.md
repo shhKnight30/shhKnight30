@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=shhKnight30&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 <h3 align="center">
-Backend Developer | Competitive Programmer | </h3>
+Backend Developer | Competitive Programmer</h3>
 
 <p align="center">
 Computer Science undergraduate focused on backend systems, problem solving, and applied machine learning research.
