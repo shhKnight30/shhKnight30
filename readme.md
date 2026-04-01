@@ -6,7 +6,8 @@
 Backend Developer | Competitive Programmer</h3>
 
 <p align="center">
-Computer Science undergraduate focused on backend systems, problem solving, and applied machine learning research.
+Computer Science undergraduate focused on backend systems, problem solving, and 
+machine learning research.
 </p>
 
 <p align="center">
